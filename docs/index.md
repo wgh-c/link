@@ -17,3 +17,7 @@
 1. [《探索 three.js》](https://discoverthreejs.com/zh/)
 
 2. [Manual](https://threejs.org/manual/)
+
+## 服务器
+
+1. [mysql 安装](https://blog.csdn.net/m0_74824661/article/details/143985660)
