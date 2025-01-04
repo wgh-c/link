@@ -11,3 +11,9 @@
 1. [css to unocss](https://to-unocss.netlify.app)
 
 2. [tailwindcss](https://tailwind.nodejs.cn/docs/installation)
+
+## Three.js
+
+1. [《探索 three.js》](https://discoverthreejs.com/zh/)
+
+2. [Manual](https://threejs.org/manual/)
