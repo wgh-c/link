@@ -24,3 +24,5 @@
 2. redis
    - [redis 下载](https://github.com/redis/redis/releases/tag/6.2.6)
    - [redis 配置](https://blog.csdn.net/weixin_50083085/article/details/136881160)
+3. [jdk](https://blog.csdn.net/weixin_41394654/article/details/123442460)
+4. [部署](https://blog.csdn.net/Elon15/article/details/124516929)
