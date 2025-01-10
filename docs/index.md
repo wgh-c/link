@@ -26,5 +26,5 @@
    - [redis 配置](https://blog.csdn.net/weixin_50083085/article/details/136881160)
 3. [jdk](https://blog.csdn.net/weixin_41394654/article/details/123442460)
 4. [部署](https://blog.csdn.net/Elon15/article/details/124516929)
-5. [nginx](https://blog.csdn.net/weixin_47110096/article/details/135741324)
+5. [nginx](https://blog.csdn.net/qq_65732918/article/details/131862373)
 6. [node](https://blog.csdn.net/qq_37955704/article/details/113395046)
